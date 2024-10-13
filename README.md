@@ -17,12 +17,13 @@ Mail Service API – To handle contact form submissions.
 
 ## 📂 Folder Structure
 
-portfolio/
-├── index.html          # Main HTML file for the portfolio
-├── styles.css          # CSS file for styling the website
-├── script.js           # JavaScript file for interactivity
-├── assets/             # Images and other media used in the portfolio
-└── README.md           # Project documentation
+    portfolio/
+    
+    ├── index.html          # Main HTML file for the portfolio
+    ├── styles.css          # CSS file for styling the website
+    ├── script.js           # JavaScript file for interactivity
+    ├── assets/             # Images and other media used in the portfolio
+    └── README.md           # Project documentation
 
 ## 🎯 How It Works
 
@@ -32,14 +33,16 @@ The JavaScript handles the functionality of the contact form, ensuring messages 
 
 ## 🎨 Demo
 [Check out my live portfolio here: Live Demo](https://shrivastava.netlify.app/)
+
 ## 📅 Usage
 Clone the repository:
 
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
-Open index.html in your web browser to view the portfolio locally.
+    git clone https://github.com/your-username/portfolio.git
+    cd portfolio
+    Open index.html in your web browser to view the portfolio locally.
 
-🔧 Future Enhancements
+## 🔧 Future Enhancements
+
 Blog Section: Add a section for articles or posts to share insights and tutorials.
 Project Details: Provide more detailed descriptions and technologies used for each project.
 Dark Mode: Implement a dark mode toggle for better user experience.
