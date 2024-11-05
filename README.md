@@ -1,5 +1,5 @@
 # 👨‍💻 My Portfolio
-Welcome to my portfolio website! This platform showcases my skills, projects, and professional experiences as a developer. Built with a clean design and responsive layout, it highlights my work and allows potential clients and employers to get in touch with me.
+Welcome to my portfolio website! This platform showcases my skills, projects, and professional experiences as a developer. Built with a clean design and responsive layout, it highlights my work and allows potential clients and employers to get in touch with me
 
 ## 🚀 Features
 
