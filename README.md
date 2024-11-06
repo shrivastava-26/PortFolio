@@ -6,7 +6,7 @@ Welcome to my portfolio website! This platform showcases my skills, projects, an
 Showcase Projects: Display of various projects demonstrating my skills and technologies used.
 Contact Form: Integrated with a mail service API to allow visitors to reach out directly.
 Responsive Design: Optimized for viewing on mobile, tablet, and desktop devices.
-User-Friendly Navigation: Easy-to-use interface for seamless exploration of my work and skills.
+User-Friendly Navigation: Easy-to-use interface for seamless exploration of my work and skills
 
 ## 🛠️ Built With
 
